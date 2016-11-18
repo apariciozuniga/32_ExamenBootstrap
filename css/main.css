@@ -1,0 +1,58 @@
+
+.display{
+	display: block;
+}
+.back{
+	background-image: url(../images/client-bg.jpg);
+	padding: 5%;
+	opacity: 0.9;
+}
+.size{
+	font-weight: 50%;
+}
+ul li{
+	list-style: none;
+}
+.back-gray{
+	background-color: #f2f2f2;
+}
+.color-gray{
+	background-color: #605d5d;
+	padding: 1%;
+}
+.red{
+	color: tomato;
+}
+.imgen{
+	margin-left: 50%;
+}
+.caja{
+	border: 1px solid gray;
+
+}
+.back-tomato{
+	background-color: tomato;
+	width: 50%;
+	height: 50%;
+	margin-left: 20%;
+
+}
+.letter{
+	font-size: 250%;
+}
+.back-contact{
+	background-image: url(../images/client-bg.jpg);
+	padding: 10%;
+	background-repeat: no-repeat;
+	margin-top: -1.5%;
+}
+.btn{
+	opacity: .5;
+	margin-left: 88%;
+}
+.woman{
+	height: 100%;
+}
+.iconos{
+	display: inline-block;
+}
